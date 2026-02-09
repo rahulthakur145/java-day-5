@@ -1,4 +1,4 @@
-public class Main {
+public class day7_5 {
     public static void main(String[] args) {
         Library lib = new Library();
 

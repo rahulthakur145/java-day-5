@@ -18,7 +18,7 @@ class Cat extends Animal {
     }
 }
 
-public class TestPolymorphism {
+public class day7_1 {
     public static void main(String[] args) {
         Animal a;
 

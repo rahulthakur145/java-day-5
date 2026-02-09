@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class GradeManager {
+class Grademanager {
     ArrayList<Student> students = new ArrayList<>();
 
     void addStudent(Student s) {
